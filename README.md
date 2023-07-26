@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushkar1995](https://github.com/pushkar1995)
 
-- 💬 Ask me about **Html, CSS and Javascript**
+- 💬 Ask me about **Html, CSS and JavaScript**
 
 - 📫 How to reach me **Write your email**
 
