@@ -14,7 +14,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/pushkar1995](https://github.com/pushkar1995)
 
-📫 How to reach me **Write your email :)**
+📫 How to reach me **Write your email :) or Join with me at my any social media platform**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-gautam/)
