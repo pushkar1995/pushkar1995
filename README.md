@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on building projects to help solve business problems.
 
-🌱 I just completed **Full Stack Web Development at Microverse** 
+🌱 I just completed **Full Stack Web Development at Microverse** I bring a blend of technical expertise and cultural competence to every project.
     
 💬 Ask me about anything tech 
 
