@@ -4,7 +4,7 @@
 
 👋 My name is Pushkar Gautam, I am graduate in Bachelors in Computer Engineering.
 
-🔭 I’m currently working on building projects to help solve business problems.
+🚀 Passionate about creating robust and elegant web solutions. A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail.
 
 🌱 I just completed **Full Stack Web Development at Microverse.** I bring a blend of technical expertise and cultural competence to every project.
     
