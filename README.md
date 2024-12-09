@@ -6,7 +6,7 @@
 
 🚀 Passionate about creating robust and elegant web solutions. A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail.
 
-🌱 I just completed **Full Stack Web Development at Microverse.** I bring a blend of technical expertise and cultural competence to every project.
+🌱 I have completed **Full Stack Web Development Program at Microverse.** I bring a blend of technical expertise and cultural competence to every project.
     
 💬 Ask me about anything tech 
 
